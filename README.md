@@ -1,7 +1,8 @@
 ### Hi Dear Developer 👋 !!!!!
 
 
-I am a dedicated, hardworking and proactive Full Stack developer.  💻 
+I am a dedicated, hardworking and proactive Full Stack developer. 💻 <br/>
+
 Counting on more than  six years leading an Auto Seller(a family brand), which gave me a strong capability of being resolutive due to the fact that I have to face in daily issues and reach the best solutions for the concern's company. 
 
 I decided to switch my career path as I wanted to improve myself. 
