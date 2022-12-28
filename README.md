@@ -21,45 +21,45 @@ ___
 
 <h4>Programming Languages</h4>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/csharp-%808000.svg?style=plastic&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/csharp-%808000.svg?style=flat&logo=csharp&logoColor=white">
  </p>
  
  <h4>Frameworks</h4>
  <p>
-  <img src="https://img.shields.io/badge/.NetCore-800080?style=plastic&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/.NetCore-800080?style=flat&logo=dotnet&logoColor=white">
   </p>
  
  
   <h4>Libraries</h4>
 <p>
- <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white">
- <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens">
- <img src="  https://img.shields.io/badge/jQUERY-black?style=plastic&logo=jquery&logoColor=blue">
+ <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white">
+ <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens">
+ <img src="  https://img.shields.io/badge/jQUERY-black?style=flat&logo=jquery&logoColor=blue">
 </p>
 
 <h4>Frontend Technlogies</h4>
-<p><img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"></p>
+<p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"></p>
    
 <h4>Backend Technologies</h4>
 </h3> 
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-white?style=plastic&logo=mongodb&logoColor=4EA94B">
-  <img src="https://img.shields.io/badge/Mongoose-00C58E?style=plastic">
-  <img src="https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/GraphQL-hotpink.svg?style=plastic&logo=GRAPHQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-white?style=flat&logo=mongodb&logoColor=4EA94B">
+  <img src="https://img.shields.io/badge/Mongoose-00C58E?style=flat">
+  <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-hotpink.svg?style=flat&logo=GRAPHQL&logoColor=white">
 </p>
 
 
 <h4>Tools & Technologies</h4>
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
 </p>
 
