@@ -42,7 +42,11 @@ ___
 </p>
 
 <h4>Frontend Technlogies</h4>
-<p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"></p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Bootstrap-white?style=flat&logo=bootstrap&logoColor=800080">
+</p>
+
    
 <h4>Backend Technologies</h4>
 </h3> 
