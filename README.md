@@ -24,8 +24,8 @@ ___
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Csharp-%808000.svg?style=flat&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/C%20Sharp-%808000.svg?style=flat&logo=csharp&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
  </p>
  
  <h4>Frameworks</h4>
