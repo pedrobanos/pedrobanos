@@ -49,7 +49,7 @@ ___
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
+  <img src="https://img.shields.io/badge/MongoDB-white?style=plastic&logo=mongodb&logoColor=4EA94B">
   <img src="https://img.shields.io/badge/Mongoose-00C58E?style=plastic">
   <img src="https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white">
