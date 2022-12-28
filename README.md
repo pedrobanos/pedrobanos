@@ -38,7 +38,7 @@ ___
 <p>
  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white">
  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens">
- <img src="  https://img.shields.io/badge/jQUERY-black?style=flat&logo=jquery&logoColor=blue">
+ <img src="https://img.shields.io/badge/jQUERY-black?style=flat&logo=jquery&logoColor=blue">
 </p>
 
 <h4>Frontend Technlogies</h4>
@@ -58,6 +58,7 @@ ___
   <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-hotpink.svg?style=flat&logo=GRAPHQL&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL%20Server-white?style=flat&logo=microsoftsqlserver&logoColor=CC2927">
 </p>
 
 
