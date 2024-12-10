@@ -13,7 +13,7 @@ They also taught me, what is more important, in my humble opinion, how to do pai
 
 Thanks to my analytic profile which I built up when I studied Industrial engineering, I felt really confortable and that helped me within this 24 intensive weeks of bootcamp to achieve my goal of being Front-Backend developer
 
-Currently I am working as a Junior Full Stack developer by a logistic engineering brand doing all the frontend-interface app using native JavaScript commonly known as vanilla.
+Currently I am working as a Full Stack developer by a logistic engineering brand doing all the frontend-interface app using native JavaScript commonly known as vanilla.
 
 
 Please do not hesitate to contact with me via LinkedIn or email pedrobanos.renault@gmail.com
